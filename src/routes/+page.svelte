@@ -8,7 +8,7 @@ p {
     font-size: 24px;
 }
 .card {
-    background-color: rgba(157, 198, 215, 0.3);
+    background-color: rgba(51, 72, 81, 0.7);
     border-radius: 0.2rem;
 }
 </style>
