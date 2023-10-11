@@ -4,6 +4,9 @@
     font-family: 'Chakra Petch', sans-serif;
     color: white;
 }
+p, h1 {
+    margin-left: 0.5rem;
+}
 p {
     font-size: 24px;
 }
