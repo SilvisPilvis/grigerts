@@ -40,6 +40,7 @@ Prasību specifikācija ir dokumentācijas veids, kas apraksta, ko sistēma vai 
 Prasību specifikācija ir svarīga, jo tā nodrošina skaidru pamatu produktu izmaksu, risku un grafiku aplēsēm. Tā arī samazina vajadzību pēc vēlākas pārprojektēšanas.
 
 Šis dokuments kalpo kā līgums starp pasūtītāju un izstrādātāju, nosakot precīzas prasības, kas jāizpilda. Tas var būt ļoti svarīgs, lai nodrošinātu, ka gala produkts atbilst klienta vajadzībām un gaidītajai funkcionalitātei.
+</p>
 
 </div>
 
