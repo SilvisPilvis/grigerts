@@ -49,7 +49,7 @@ Prasību specifikācija ir svarīga, jo tā nodrošina skaidru pamatu produktu i
     <p>
     Prasības un specifikācijas ir divi atšķirīgi, bet savstarpēji saistīti jēdzieni.
 
-    Prasības ir definīcijas par to, ko sistēma vai produkts ir jādara. Tās var aprakstīt funkcionalitāti, darbību, interfeisu un citus aspektus. Prasības ir svarīgas, lai nodrošinātu skaidru pamatu produktu izmaksu, risku un grafiku aplēsēm1. Tās arī samazina vajadzību pēc vēlākas pārprojektēšanas.
+    Prasības ir definīcijas par to, ko sistēma vai produkts ir jādara. Tās var aprakstīt funkcionalitāti, darbību, interfeisu un citus aspektus. Prasības ir svarīgas, lai nodrošinātu skaidru pamatu produktu izmaksu, risku un grafiku aplēsēm. Tās arī samazina vajadzību pēc vēlākas pārprojektēšanas.
         
     Specifikācijas, no otras puses, apraksta konkrētas prasības, kas jāizpilda sistēmai vai produktam. Tās var ietvert prasības par materiāliem, izpildes metodi, kvalitāti un citiem aspektiem. Specifikācijas nodrošina skaidru pamatu darba izpildes un kvalitātes novērtējumam.
         
